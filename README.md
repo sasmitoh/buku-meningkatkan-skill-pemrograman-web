@@ -1,4 +1,4 @@
-# buku-meningkatkan-skill-pemrograman-web
+# Buku Meningkatkan Skill Pemrograman Web
 <p align="center">
 <img src="https://github.com/sasmitoh/buku-meningkatkan-skill-pemrograman-web/blob/master/meningkatkan-skill.png" width="600" height="400" />
 </p>
